@@ -20,7 +20,7 @@ This project implements an automated **ETL (Extract, Transform, Load)** pipeline
 - **Python** – Data processing
 - **Pandas** – Data transformation
 - **SQLAlchemy / PostgreSQL / SQLite** – Database support
-- **Docker (Optional)** – For containerized deployment
+
 
 ---
 
