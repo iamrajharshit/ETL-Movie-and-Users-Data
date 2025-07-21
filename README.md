@@ -24,23 +24,3 @@ This project implements an automated **ETL (Extract, Transform, Load)** pipeline
 
 ---
 
-## 📁 Project Structure
-```
-etl-airflow/
-│
-├── dags/
-│ └── etl_pipeline.py # Main Airflow DAG definition
-│
-├── data/
-│ └── movies.csv # Sample movie data
-│ └── users.csv # Sample user data
-│
-├── scripts/
-│ └── extract.py # Extraction logic
-│ └── transform.py # Transformation logic
-│ └── load.py # Loading logic
-│
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
-```
